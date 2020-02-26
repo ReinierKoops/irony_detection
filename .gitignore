@@ -303,3 +303,6 @@ ipython_config.py
 
 # Exclude unzipped filedirectory
 install_dependendencies/stanford-corenlp-full-2018-10-05/
+
+# Exclude jetbrains folder
+.idea/
