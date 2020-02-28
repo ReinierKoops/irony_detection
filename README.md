@@ -25,4 +25,4 @@ If you use the code for your project, please cite the following paper (<a href="
 }
 ```
 
-Run Install_project.ipynb for a guided process for the installation.
+Run <b>Install_project.ipynb</b> for a guided process for the installation.
