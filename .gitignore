@@ -311,3 +311,4 @@ install_dependencies/word2vec_twitter_model.bin
 
 # Exclude jetbrains folder
 .idea/
+install_dependencies/fasttext_twitter_raw.bin
