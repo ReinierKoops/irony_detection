@@ -5,6 +5,8 @@
 ### Linux ###
 *~
 
+install_dependencies/fasttext_twitter_raw.bin
+
 subtaskA/.DS_Store
 subtaskB/.DS_Store
 
