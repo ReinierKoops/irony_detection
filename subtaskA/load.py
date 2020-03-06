@@ -3,7 +3,7 @@ def parse_dataset(dataset):
     y = []
     corpus = []
     dataset_name = dataset.lower()
-    with open(dataset, 'r') as data_in:
+    with open(dataset, 'r', encoding='utf-8') as data_in:
         for line in data_in:
             if not line.lower().startswith("tweet index"):	# discard first line if it contains metadata
                 line = line.rstrip()	# remove trailing whitespace
